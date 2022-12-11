@@ -11,7 +11,7 @@ It's a great way to learn.
 * [3D Renderer](#build-your-own-3d-renderer)
 * [Augmented Reality](#build-your-own-augmented-reality)
 * [BitTorrent Client](#build-your-own-bittorrent-client)
-* [Blockchain / Cryptocurrency](#build-your-own-blockchain--cryptocurrency)
+* [Blockchain / Cryptocurrency](#build-your-own-blockchain-cryptocurrency)
 * [Bot](#build-your-own-bot)
 * [Command-Line Tool](#build-your-own-command-line-tool)
 * [Database](#build-your-own-database)
